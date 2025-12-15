@@ -1,7 +1,7 @@
 # app.py
 import streamlit as st
 import plotly.express as px
-from team_analysis.teametl import extract_team_data
+from teametl import extract_team_data
 import plotly.graph_objects as go
 import pandas as pd
 
